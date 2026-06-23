@@ -129,7 +129,7 @@ ejecutarDemoCliente();
 * [x] **Aislamiento de Errores de Cliente:** El flujo lógico cuenta con una bifurcación condicional exclusiva para el rango `400-499`, evitando que fallos de entrada o autenticación corrompan la ejecución global.
 
 #### Evidencia de Ejecución:
-![Captura de Pantalla - Consola de Depuración](./semana01_evidencia_salida.png)
+![Captura de Pantalla](./evidencia1.png)
 
 ---
 
