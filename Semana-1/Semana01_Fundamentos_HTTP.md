@@ -1,10 +1,9 @@
-# Semana 1: Arquitectura Cliente-Servidor y Fundamentos HTTP
+# Semana 1: Fundamentos HTTP y primer cliente REST
 
 **Curso:** Programación Distribuida del Lado del Cliente  
 **Institución:** Universidad Autónoma de Nayarit  
 **Estudiante:** Francisco Javier Romero González (Matrícula: 21009692)  
-**Docente:** Eligardo Cruz Sánchez  
-**Modelo Pedagógico:** AETL (Comprende, Aplica, Reflexiona, Valida, Profundiza)  
+**Docente:** Eligardo Cruz Sánchez    
 
 ---
 
