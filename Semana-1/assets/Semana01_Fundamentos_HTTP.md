@@ -128,8 +128,8 @@ ejecutarDemoCliente();
 * [x] **Validación de Metadatos:** Se inspecciona explícitamente la cabecera `Content-Type` para asegurar la integridad estructural del JSON de respuesta antes de invocar `.json()`.
 * [x] **Aislamiento de Errores de Cliente:** El flujo lógico cuenta con una bifurcación condicional exclusiva para el rango `400-499`, evitando que fallos de entrada o autenticación corrompan la ejecución global.
 
-#### Evidencia de Ejecución Real:
-![Captura de Pantalla - Consola de Depuración](./assets/semana01_evidencia_salida.png)
+#### Evidencia de Ejecución:
+![Captura de Pantalla - Consola de Depuración](./semana01_evidencia_salida.png)
 
 ---
 
