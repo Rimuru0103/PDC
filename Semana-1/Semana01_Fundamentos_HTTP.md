@@ -20,7 +20,7 @@
 3. **Manejo Temprano de la Respuesta:** El cliente evalúa la familia del código de estado recibido (`2xx`, `4xx`, `5xx`) antes de intentar deserializar el payload, decidiendo de manera autónoma si bifurca hacia el flujo de renderizado o hacia el manejo de excepciones.
 
 ---
-
+![Captura de Pantalla - Consola de Depuración](./assets/semana01_evidencia_salida.png)
 ## 2. APLICA (Nivel Bloom: Aplicar / Analizar)
 ### Actividad: Script funcional en JavaScript (Fetch API) para el entorno EcoMarket / TechNova.
 
@@ -129,7 +129,7 @@ ejecutarDemoCliente();
 * [x] **Aislamiento de Errores de Cliente:** El flujo lógico cuenta con una bifurcación condicional exclusiva para el rango `400-499`, evitando que fallos de entrada o autenticación corrompan la ejecución global.
 
 #### Evidencia de Ejecución Real:
-![Captura de Pantalla - Consola de Depuración](./assets/semana01_evidencia_salida.png)
+
 
 ---
 
