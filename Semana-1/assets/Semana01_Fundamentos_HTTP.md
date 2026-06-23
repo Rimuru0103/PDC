@@ -12,7 +12,7 @@
 ### Actividad: Mapa conceptual del ciclo petición-respuesta anotado con las decisiones del cliente.
 
 
-![Mapa Conceptual - Ciclo Petición-Respuesta](./assets/semana01_mapa_conceptual.png)
+![Mapa Conceptual - Ciclo Petición-Respuesta](./semana01_mapa_conceptual.png)
 
 #### Notas de Decisiones del Cliente anotadas en el diagrama:
 1. **Selección del Método Semántico:** El cliente determina el uso exclusivo de `GET` para consultas seguras e idempotentes (vistas de catálogo en EcoMarket) o `POST` para operaciones que alteran el estado del servidor de forma no idempotente (creación de pedidos).
